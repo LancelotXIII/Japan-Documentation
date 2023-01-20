@@ -17,7 +17,8 @@ Vaccination
 
 Narita International Airport is 60 km (37 mi) from central Tokyo.
 
-**Taxi** is the most expensive option. A taxi from Narita to the Shibuya or Shinjuku area will cost anywhere from ￥20,000 to ￥25,000 depending on traffic. A taxi to the Tokyo Station area will run anywhere from ￥19,000 to ￥22,000 depending on traffic. Several "flat rate" private hire car services are also available, but the rates for these services are comparable to taxi rates. Without the traffic, the drive time from Narita Airport into metro Tokyo is about 75-100 minutes. During rush hour, this can easily jump to 2 hours or more.
+**Taxi** is the most expensi![Pasted image 20230117180250](https://user-images.githubusercontent.com/41338338/213592398-454904ba-c886-4155-bfad-00276c2aa29e.png)
+ve option. A taxi from Narita to the Shibuya or Shinjuku area will cost anywhere from ￥20,000 to ￥25,000 depending on traffic. A taxi to the Tokyo Station area will run anywhere from ￥19,000 to ￥22,000 depending on traffic. Several "flat rate" private hire car services are also available, but the rates for these services are comparable to taxi rates. Without the traffic, the drive time from Narita Airport into metro Tokyo is about 75-100 minutes. During rush hour, this can easily jump to 2 hours or more.
 
 There are two express trains serving Narita: the **Keisei Skyliner** and the **Narita Express**. Both offer ample storage for luggage and are designed for airport travelers with plenty of space.
 
@@ -58,7 +59,8 @@ Another bus option is the **[Keisei Expressway Bus](https://honyaku.j-server.co
 | July 7 | Friday      | Japan Departure (Group B) // Arival same day                   | Tokyo    | n/a                |
 ***
 #### Weather
-obsidian://open?vault=Notes%20and%20Files&file=Attachement%2FPasted%20image%2020230117180250.png
+![Uploading Pasted image 20230117180250.png…]()
+
 
 ***
 ### Culture
