@@ -58,7 +58,8 @@ Another bus option is the **[Keisei Expressway Bus](https://honyaku.j-server.co
 | July 7 | Friday      | Japan Departure (Group B) // Arival same day                   | Tokyo    | n/a                |
 ***
 #### Weather
-![Uploading Pasted image 20230117180250.png…]()
+![Pasted image 20230117180250](https://user-images.githubusercontent.com/41338338/213592515-a867443a-e126-404c-b55a-598ecbb9c30f.png)
+
 
 
 ***
