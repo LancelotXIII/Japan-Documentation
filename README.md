@@ -11,8 +11,7 @@ Vaccination
 	3. Register Flight Information
 	4. Upload and Complete all information
 	5. Get QR Code
-	- Arrival
-	6. Just show QR Code when asked
+	6. Just show QR Code when asked on Arrival
 ***
 ## Narita Airport to Tokyo
 
