@@ -2,17 +2,17 @@
 ***
 ## Travel Requirements
 USA - No Visa
-	Vaccination
-		If Vaccinated : [Need proof of vaccination ](https://www.mhlw.go.jp/stf/covid-19/border_vaccine.html)
-		If Not Vaccinated : [Need Test Within 72 hours](https://www.mhlw.go.jp/stf/covid-19/border_test.html)
-	- [Preflight Preparation](https://vjw-lp.digital.go.jp/en/)
-		1. Create Account
-		2. Register Information
-		3. Register Flight Information
-		4. Upload and Complete all information
-		5. Get QR Code
+Vaccination
+- If Vaccinated : [Need proof of vaccination ](https://www.mhlw.go.jp/stf/covid-19/border_vaccine.html)
+- If Not Vaccinated : [Need Test Within 72 hours](https://www.mhlw.go.jp/stf/covid-19/border_test.html)	
+- [Preflight Preparation](https://vjw-lp.digital.go.jp/en/)
+	1. Create Account
+	2. Register Information
+	3. Register Flight Information
+	4. Upload and Complete all information
+	5. Get QR Code
 	- Arrival
-		6. Just show QR Code when asked
+	6. Just show QR Code when asked
 ***
 ## Narita Airport to Tokyo
 
