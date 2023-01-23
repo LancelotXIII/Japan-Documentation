@@ -38,24 +38,20 @@ Another bus option is the **[Keisei Expressway Bus](https://honyaku.j-server.co
 **Please note that if you take a flight before 8am on domestic routes and 9:30am on international flights, you should consider staying the night in Narita city.**
 ***
 ## Schedule
-### Current Proposed Dates
-| Date   | Day of Week | Event                                                          | Location | Squished Sqchedule |
-| ------ | ----------- | -------------------------------------------------------------- | -------- | ------------------ |
-| Jun 22 | Thursday    | Arrival in LAX (If Possible)                                   | LAX      | LAX                |
-| Jun 23 | Friday      | Departure for Japan (Evening) // Departure for Japan (Morning) | LAX      | LAX                |
-| Jun 24 | Saturday    | Arrival in Japan (Evening) // Arrival in Japan (Morning)       | Tokyo    | Tokyo              |
-| Jun 25 | Sunday      | Day 2                                                          | Tokyo    | Tokyo              |
-| Jun 26 | Monday      | Day 3 // Cam's Birthday                                        | Tokyo    | Tokyo           |
-| Jun 27 | Tuesday     | Day 4                                                          | Mt.Fuji  | Mt.Fuji            |
-| Jun 28 | Wednesday   | Day 5                                                          | Mt.Fuji  | Kyoto              |
-| Jun 29 | Thursday    | Day 6                                                          | Mt.Fuji  | Osaka              |
-| Jun 30 | Friday      | Day 7                                                          | Tokyo    | Osaka              |
-| July 1 | Saturday    | Japan Departure (Group A) // Arival same day                   | Tokyo    | Tokyo              |
-| July 2 | Sunday      | Day 8                                                          | Kyoto    | n/a                |
-| July 3 | Monday      | Day 9                                                          | Kyoto    | n/a                |
-| July 4 | Tuesday     | Day 10                                                         | Osaka    | n/a                |
-| July 5 | Wednesday   | Day 11                                                         | Osaka    | n/a                |
-| July 7 | Friday      | Japan Departure (Group B) // Arival same day                   | Tokyo    | n/a                |
+| Date   | Day of Week | Event                                             | Location     |
+| ------ | ----------- | ------------------------------------------------- | ------------ |
+| May 19 | Friday      | Depart DFW (7:35PM) -> Land Toronto (11.50PM)     | DFW/CANADA   |
+| May 20 | Saturday    | Departure for Japan (1:35PM)                      | PLANE        |
+| May 21 | Sunday      | Arrival in Japan (3:40PM)[HND] // Day 1           | TOKYO        |
+| May 22 | Monday      | Day 2                                             | TOKYO        |
+| May 23 | Tuesday     | Day 3                                             | TOKYO        |
+| May 24 | Wednesday   | Day 4                                             | MT. FUJI     |
+| May 25 | Thursday    | Day 5                                             | OSAKA        |
+| May 26 | Friday      | Day 6                                             | OSAKA        |
+| May 27 | Saturday    | Day 7                                             | KYOTO        |
+| May 28 | Sunday      | Day 9                                             | KYOTO        |
+| May 29 | Monday      | Japan Departure (5:40PM) -> Land Toronto (4:45PM) | TOKYO        |
+| May 30 | Tuesday     | Depart Toronto (8:15AM) -> Land DFW (10:30AM)     | TOKYO/CANADA |
 ***
 #### Weather
 [General Prediction](https://www.japan-guide.com/e/e2273.html)
